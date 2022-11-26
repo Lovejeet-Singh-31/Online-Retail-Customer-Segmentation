@@ -13,7 +13,9 @@
 * Country: Country name. Nominal, the name of the country where each customer resides.
 # 📖ALGORITHMS USED:
 I. KMEANS-SILHOUTTE SCORE, ELBOW METHOD
+
 II. HIERARCHICAL CLUSTERING-AGGLOMERATIVE
+
 # 📖CONCLUSION:
 * The Top 3 products are white hanging T-Light Holder, Regency cake stand 3 tier and Jumbo Bag red retro spot.
 * Top 3  rarely sold product are Blue felt heart flower, Glass cake cover and Cracked glaze earrings red.
